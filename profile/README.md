@@ -115,6 +115,12 @@ PostgreSQL
 | **Swagger / OpenAPI** | Описание и исследование API |
 | **Docker** | Контейнеризация и воспроизводимое окружение |
 
+## Запуск и документация
+
+Checkpoint 3 защищён. Инструкции и код находятся в основной ветке `develop` каждого репозитория.
+
+[**Запустить приложение →**](https://github.com/TeamFinderProject/teamfinder-docs/blob/develop/demo-guide.md) · [Архитектура](https://github.com/TeamFinderProject/teamfinder-docs/blob/develop/architecture-v1.md) · [API-контракт](https://github.com/TeamFinderProject/teamfinder-docs/blob/develop/api-contracts-v1.md)
+
 ## Репозитории
 
 | Репозиторий | Назначение |
@@ -127,9 +133,8 @@ PostgreSQL
 
 | Участник | Роли |
 | :--- | :--- |
-| **Участник 1** | Team Lead · Backend · DevOps |
-| **Участник 2** | Project Manager · Database Engineer · System Analyst |
-| **Участник 3** | Frontend · Business Analyst · Designer |
+| [**evgeha52**](https://github.com/evgeha52) | Team Lead · Backend · DevOps · интеграция данных и приложения |
+| [**amrrn**](https://github.com/amrrn) | Frontend · Business Analyst · Designer |
 
 ## Процесс разработки
 
